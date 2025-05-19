@@ -1,0 +1,17 @@
+cd Documents
+
+git clone https://github.com/hangguet/testskill
+
+cd testskill
+
+dir
+
+git status
+
+notepad file.txt
+
+git add file.txt
+
+git commit -m "added file"
+
+git push
